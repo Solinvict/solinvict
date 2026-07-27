@@ -1,8 +1,14 @@
+<p align="center">
+  <a href="https://github.com/Solinvict/SOLARIS">
+    <img src="https://raw.githubusercontent.com/Solinvict/SOLARIS/main/assets/solaris-logo.svg" alt="Solaris — archive, believe, diverge" width="360" />
+  </a>
+</p>
+
 # Solinvict
 
 I build systems that turn knowledge into memory, memory into models, and models into things that can be tested.
 
-Independent builder working across AI systems, computational research, and communication infrastructure.
+Independent builder working across AI systems, autonomous experimentation, computational research, and communication infrastructure.
 
 ## Current work
 
@@ -13,6 +19,10 @@ An archive-grounded editorial memory substrate for long-lived AI systems. Solari
 ### Reality IR
 
 A research system for transforming accumulated human knowledge into structured, executable, and testable models of the world.
+
+### AEON 23
+
+An autonomous experimentation engine combining design of experiments, Bayesian optimization, and physics-informed machine learning to guide scientific campaigns.
 
 ### [Erythrea](https://www.erythrea.com)
 
