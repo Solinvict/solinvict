@@ -18,7 +18,7 @@ An archive-grounded editorial memory substrate for long-lived AI systems. Solari
 
 ### [Reality IR](https://github.com/Solinvict/reality-ir-overview)
 
-A law-governed research compiler that uses deterministic state transitions to turn evidence into traceable beliefs, contradictions, hypotheses, and executable experiments.
+The typed epistemic spine of a source-first, governed research workbench—turning heterogeneous sources into bounded evidence, traceable judgment, institutional memory, and executable inquiry only when lineage, capability, and authority permit it.
 
 ### [AEON](https://github.com/Solinvict/aeon-23-overview)
 
