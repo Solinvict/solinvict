@@ -16,9 +16,9 @@ Independent builder working across AI systems, autonomous experimentation, compu
 
 An archive-grounded editorial memory substrate for long-lived AI systems. Solaris keeps memory inspectable, provenance-aware, and open to correction rather than collapsing accumulated experience into fuzzy recall.
 
-### Reality IR
+### [Reality IR](https://github.com/Solinvict/reality-ir-overview)
 
-A research system for transforming accumulated human knowledge into structured, executable, and testable models of the world.
+A law-governed research compiler that uses deterministic state transitions to turn evidence into traceable beliefs, contradictions, hypotheses, and executable experiments.
 
 ### AEON 23
 
