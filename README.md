@@ -20,9 +20,9 @@ An archive-grounded editorial memory substrate for long-lived AI systems. Solari
 
 A law-governed research compiler that uses deterministic state transitions to turn evidence into traceable beliefs, contradictions, hypotheses, and executable experiments.
 
-### AEON 23
+### [AEON 23](https://github.com/Solinvict/aeon-23-overview)
 
-An autonomous experimentation engine combining design of experiments, Bayesian optimization, and physics-informed machine learning to guide scientific campaigns.
+A governed autonomous experimentation engine that turns approved hypotheses into constrained campaigns through design of experiments, Bayesian optimization, surrogate modelling, and separated decision and execution authority.
 
 ### [Erythrea](https://www.erythrea.com)
 
